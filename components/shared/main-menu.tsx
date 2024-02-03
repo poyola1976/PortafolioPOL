@@ -28,11 +28,7 @@ const MainMenu = () => {
       icon: RiBriefcase2Line,
       href: '/ventures',
     },
-    {
-      label: 'Experiencia',
-      icon: RiFileListLine,
-      href: '/blog',
-    },
+  
     {
       label: 'Acerca de mí',
       icon: RiUserLine,

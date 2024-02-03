@@ -16,7 +16,7 @@ const FeaturedWorkSection = () => {
       <Container>
         <Title title='Proncipales Trabajos Realizados' />
         <ListFeaturedWork />
-        <Button label='View All Work' onClick={() => router.push('/work')} />
+        <Button label='Ver todos los trabajos' onClick={() => router.push('/work')} />
       </Container>
     </section>
   );
