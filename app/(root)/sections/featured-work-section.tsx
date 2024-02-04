@@ -14,7 +14,7 @@ const FeaturedWorkSection = () => {
   return (
     <section id='featuredWork' className='border-b border-gray-500/30 py-10'>
       <Container>
-        <Title title='Proncipales Trabajos Realizados' />
+        <Title title='Principales Trabajos Realizados' />
         <ListFeaturedWork />
         <Button label='Ver todos los trabajos' onClick={() => router.push('/work')} />
       </Container>
