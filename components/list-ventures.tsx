@@ -1,7 +1,5 @@
 import { cn } from '@/libs/utils';
 
-import CardVentures from '@/components/ui/card-ventures';
-
 interface ListVenturesProps {
   className?: string;
 }
